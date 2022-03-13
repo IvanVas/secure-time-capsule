@@ -1,8 +1,8 @@
 # Secure time capsule
-A method to send encrypted messages to family or posterity.
+Send a rich private message through time to someone.
 
 ## Problem
-Sending a private message through time to someone (your family, future self or posterity).
+Sending a private message through time to someone (your family, future self or posterity) when you have possibility to pass them a password.
 
 ## Solution
 This repo is a couple of scripts that simplifies the following steps:
